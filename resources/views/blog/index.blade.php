@@ -4,11 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Data Blogs - SantriKoding.com</title>
+    <title>Data Blogs - WEB Logo IKN</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 </head>
 <body style="background: lightgray">
+    <center><h1 style="color: red ">Contoh Logo</h1></center>
+    
 
     <div class="container mt-5">
         <div class="row">
