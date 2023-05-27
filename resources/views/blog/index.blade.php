@@ -9,8 +9,7 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 </head>
 <body style="background: lightgray">
-    <center><h1 style="color: red ">Contoh Logo</h1></center>
-    
+    <center><marquee><h1 style="color: red ">Contoh Logo</h1></marquee></center>
 
     <div class="container mt-5">
         <div class="row">
